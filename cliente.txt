@@ -1,0 +1,12 @@
+Nombre: karen
+Apellidos: francellino 
+edad36 años
+
+Nombre: aline
+Apellidos: siqueira
+edad: 32 años
+
+Nombre: laura 
+Apellidos: francellino
+edad: 33 años
+
